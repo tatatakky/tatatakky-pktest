@@ -1,0 +1,12 @@
+[package]
+description = "package test"
+name = "tatatakky-pktest"
+version = "0.1.0"
+authors = ["tatatakky <tt7t9kk9y1aaa@gmail.com>"]
+edition = "2021"
+license = "MIT"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
